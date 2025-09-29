@@ -192,10 +192,10 @@ A **DAC** transforms binary inputs into analog voltages/currents.
    ![Weighted DAC](weighteddac.png)
 
    * Uses resistors in powers of 2.
-   * Accurate but requires precise resistor ratios.![alt text](image.png)
+   * Accurate but requires precise resistor ratios.
 
 2. **R-2R Ladder DAC**
-   ![R-2R DAC](r2rdac.png)
+   ![r2rdac](r2rdac.png)
 
    * Uses only two resistor values → scalable in VLSI.
    * Widely used in SoCs due to ease of fabrication.
