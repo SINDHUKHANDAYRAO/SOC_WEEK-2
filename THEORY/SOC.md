@@ -229,7 +229,7 @@ BabySoC serves as a **hands-on introduction to the world of SoC design**, bridgi
 
 ---
 
-### 🎯 Fun & Engaging SoC Examples for Students
+### 🎯 Fun & Engaging SoC Examples
 
 * **Gaming Consoles** → The Nintendo Switch uses an NVIDIA Tegra SoC to combine CPU, GPU, and I/O so you can play high-definition games in a compact handheld console.
 * **Smart Watches** → Apple Watch uses tiny SoCs to manage fitness tracking, heart monitoring, and display updates without draining the battery.
